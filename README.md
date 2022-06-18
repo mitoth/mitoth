@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mitoth
 - 👀 I’m interested in .net tehnologies
-- 🌱 I’m currently learning blazor
-- 💞️ I’m looking to collaborate on .net related stuff
+- 🌱 Also experienced with frontent and devops tehnologies 
+- 💞️ I’m looking to collaborate on fullstack or .net project
 - 📫 How to reach me toth.mihai@yahoo.com
 
 <!---
