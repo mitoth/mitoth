@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mitoth
 - 👀 I’m interested in .net tehnologies
 - 🌱 Also experienced with frontent and devops tehnologies 
-- 💞️ I’m looking to collaborate on python or .net project
+- 💞️ I’m looking to collaborate on .NET projects
 - 📫 How to reach me toth.mihai@yahoo.com
 
 <!---
